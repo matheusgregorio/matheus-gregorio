@@ -1,4 +1,4 @@
-# 💼 Mini Portfolio Responsiv0
+# 💼 Mini Portfolio Responsivo
 
 - Mini portifólio responsivo usando HTML CSS JavaScript e SASS
 - Contém animações css.
